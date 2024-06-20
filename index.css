@@ -142,3 +142,26 @@ button:hover {
     background-color: blueviolet;
     color: white;
 }
+
+/* Estilos específicos para o formulário de download */
+download {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #2e2e2e;
+    border-radius: 8px;
+    text-align: center;
+}
+
+download button {
+    padding: 10px 20px;
+    background-color: #5BBE42;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+download button:hover {
+    background-color: #4a9e37;
+}
